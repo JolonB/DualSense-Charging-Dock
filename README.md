@@ -1,4 +1,4 @@
-# DualSense-Charging-Dock
+# DualSense Charging Dock
 
 In the interest of increased repairability, I've compiled some useful information about the DualSense charging dock.
 
